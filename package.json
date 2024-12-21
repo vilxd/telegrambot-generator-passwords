@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@grammyjs/conversations": "^1.2.0",
+    "grammy": "^1.33.0",
+    "html-escaper": "^3.0.3"
+  }
+}
